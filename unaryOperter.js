@@ -20,3 +20,5 @@
 // console.log("c=" + c); // 103
 
 // console.log();
+
+console.log(Math.trunc(Math.random() * 5000 + 1000));
